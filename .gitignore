@@ -1,7 +1,3 @@
-*.lps
-*.res
+Binary/Pacman.exe
+Binary/Pacman.dbg
 /lib
-/Units/backup
-/Units/Sprites/backup
-/Design
-/Binary/.exe
