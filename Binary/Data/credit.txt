@@ -1,0 +1,13 @@
+Graphics:
+https://www.spriters-resource.com/arcade/pacman/  reworked in vectorial with Inkscape
+
+Sounds:
+https://www.classicgaming.cc/classics/pac-man/
+other sounds riped from original game with Mame + Audacity, recording the sound card output (loop back).
+
+Fonts:
+https://www.classicgaming.cc/classics/pac-man/
+DynaPuff font: https://fonts.google.com/specimen/DynaPuff?categoryFilters=Feeling:%2FExpressive%2FCute
+
+Game logic:
+https://pacman.holenet.info/#Chapter_2

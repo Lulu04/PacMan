@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Debug"/>
+    <Units>
+      <Unit>
+        <Filename Value="Pacman.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="45" Y="21"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\form_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="216"/>
+        <CursorPos X="36" Y="230"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\u_common.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="96"/>
+        <CursorPos X="23" Y="72"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\screen_game.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="340"/>
+        <CursorPos Y="361"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\project_config.cfg"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="200"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_sprite_title.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="21"/>
+        <CursorPos X="15" Y="28"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\u_sprite_def.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="1982"/>
+        <CursorPos X="29" Y="1994"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_sprite_basepacman.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="79" Y="46"/>
+        <UsageCount Value="214"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_sprite_baseghost.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="30"/>
+        <CursorPos X="29" Y="43"/>
+        <UsageCount Value="214"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\u_game_manager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="230"/>
+        <CursorPos X="28" Y="212"/>
+        <UsageCount Value="211"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_sprite_labelhighscore.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="19" Y="28"/>
+        <UsageCount Value="208"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_sprite_basehighscore.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="56" Y="32"/>
+        <UsageCount Value="208"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\u_audio.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="96"/>
+        <CursorPos X="19" Y="104"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_sprite_score.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="19"/>
+        <CursorPos X="47" Y="21"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_sprite_labelplayerone.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="12" Y="28"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_sprite_labelgameover.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="14" Y="28"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\screen_mainmenu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="299"/>
+        <CursorPos X="3" Y="301"/>
+        <UsageCount Value="159"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_sprite_presentation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="329"/>
+        <CursorPos X="5" Y="348"/>
+        <UsageCount Value="110"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\screen_intermission.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="31"/>
+        <CursorPos X="2" Y="49"/>
+        <UsageCount Value="92"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_sprite_ghostworm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="73" Y="15"/>
+        <UsageCount Value="75"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_panel_basepause.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="20"/>
+        <CursorPos X="17" Y="29"/>
+        <UsageCount Value="125"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_panel_baseoptions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="66"/>
+        <CursorPos X="41" Y="81"/>
+        <UsageCount Value="55"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcTileEngine.inc"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="999"/>
+        <CursorPos X="2" Y="1003"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcTextureAtlas.inc"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="71"/>
+        <CursorPos X="12" Y="85"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\OGLCScene.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1580"/>
+        <CursorPos Y="1594"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcUtils.inc"/>
+        <EditorIndex Value="9"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="21" Y="37"/>
+        <UsageCount Value="100"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcTexture.inc"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="242"/>
+        <CursorPos Y="256"/>
+        <UsageCount Value="100"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcAppSaveUtils.inc"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="60" Y="33"/>
+        <UsageCount Value="104"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ALSound\source\alsound.pas"/>
+        <UnitName Value="ALSound"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="1251"/>
+        <CursorPos X="61" Y="1257"/>
+        <UsageCount Value="100"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcVelocityCurve.inc"/>
+        <EditorIndex Value="10"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1015"/>
+        <CursorPos Y="1037"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcSurface.inc"/>
+        <EditorIndex Value="11"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1714"/>
+        <CursorPos Y="1729"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcUIModalPanel.inc"/>
+        <EditorIndex Value="14"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="106"/>
+        <CursorPos Y="121"/>
+        <UsageCount Value="100"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcUIPanelWithEffects.inc"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="13"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="51"/>
+        <CursorPos X="24" Y="65"/>
+        <UsageCount Value="100"/>
+        <Bookmarks Count="1">
+          <Item0 X="3" Y="66" Left="1" Top="51"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcUI.inc"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1939"/>
+        <CursorPos Y="1954"/>
+        <UsageCount Value="100"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_panel_main.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="28" Y="28"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="39"/>
+        <CursorPos Y="58"/>
+        <UsageCount Value="73"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcMath.inc"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="1"/>
+        <CursorPos X="10" Y="6"/>
+        <UsageCount Value="55"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcLayer.inc"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="75"/>
+        <CursorPos X="35" Y="86"/>
+        <UsageCount Value="55"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcPostProcessing.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="271"/>
+        <CursorPos X="22" Y="287"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcType.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="333"/>
+        <CursorPos Y="305"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\ALSound\source\als_audiofile_utils.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="37"/>
+        <CursorPos Y="60"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcBorderAndFill.inc"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="1"/>
+        <CursorPos Y="39"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Units\Sprites\u_panel_basepresskey.pas"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="16"/>
+        <CursorPos X="24" Y="33"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\OGLCScene\source\oglcMessage.inc"/>
+        <EditorIndex Value="12"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="22"/>
+        <CursorPos Y="37"/>
+        <UsageCount Value="19"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="51" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="52" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="53" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="54" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="55" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="56" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="57" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="58" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="59" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="49" Column="17" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="50" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="51" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="52" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="53" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="54" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="55" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="56" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="57" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="58" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="59" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="62" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="63" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="64" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="65" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="66" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="67" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="68" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\Sprites\u_panel_basemain.pas"/>
+        <Caret Line="69" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\u_sprite_def.pas"/>
+        <Caret Line="2093" Column="4" TopLine="2072"/>
+      </Position>
+      <Position>
+        <Filename Value="Units\u_sprite_def.pas"/>
+        <Caret Line="333" Column="17" TopLine="319"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

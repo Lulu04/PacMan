@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\LazarusFromFpcupDelux\fpc\bin\x86_64-win64\fpc.exe" Date="1537096547"/>
+  <Params Value="-MObjFPC -Scaghi -CirotR -O1 -gw3 -gl -gh -Xg -gt -WG -l -vewnhibq -FiC:\Pascal\OGLCGame\Pacman\lib\x86_64-win64 -FuC:\Pascal\OGLCGame\Pacman\ -FuC:\Pascal\OGLCGame\Pacman\Units -FuC:\Pascal\OGLCGame\Pacman\Units\Sprites -FuC:\Pascal\OGLCGame\Pacman\Units\Levels -FuC:\Pascal\OGLCScene\source\lib\x86_64-win64 -FuC:\LazarusFromFpcupDelux\lazarus\components\opengl\lib\x86_64-win64\win32 -FuC:\LazarusFromFpcupDelux\ccr\bgrabitmap\bgrabitmap\lib\x86_64-win64-win32-3.2.3 -FuC:\LazarusFromFpcupDelux\lazarus\lcl\units\x86_64-win64\win32 -FuC:\LazarusFromFpcupDelux\lazarus\lcl\units\x86_64-win64 -FuC:\LazarusFromFpcupDelux\lazarus\components\freetype\lib\x86_64-win64 -FuC:\Pascal\ALSound\source\lib\x86_64-win64 -FuC:\LazarusFromFpcupDelux\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\LazarusFromFpcupDelux\lazarus\packager\units\x86_64-win64 -FUC:\Pascal\OGLCGame\Pacman\lib\x86_64-win64\ -FEC:\Pascal\OGLCGame\Pacman\Binary\ -oC:\Pascal\OGLCGame\Pacman\Binary\Pacman.exe -dLCL -dLCLwin32 Pacman.lpr"/>
+</CONFIG>
