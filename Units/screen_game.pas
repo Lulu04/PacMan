@@ -62,7 +62,6 @@ private
   FGhostHouseManager: TGhostHouseManager;
 
   FPanelPause: TPanelPause;
-  debug: TFreeText;
   procedure SetGameState(AValue: TGameState);
 private
   FGhostEaten: TGhost;
@@ -292,10 +291,6 @@ begin
   GameState := gsStartLevel;
 
   GameManager.ApplyRetroModeIfNeeded;
-
-  debug := TFreeText.Create(FScene);
-  FScene.Add(debug, LAYER_UI);
-  debug.TexturedFont := texturedfontBonus;
 end;
 
 procedure TScreenGame.FreeObjects;
@@ -386,10 +381,6 @@ begin
         // check win game
         if GameManager.DotEaten = TOTAL_DOT_TO_EAT then
           GameState := gsPlayingWinAnimation;
-
-// debug
-debug.caption:='dot eat: '+GameManager.DotEaten.ToString+lineending;
-
 
     end;// gsRunning
   end;
