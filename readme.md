@@ -13,6 +13,8 @@ Internally ALSound use LibSndFile and OpenALSoft library. The two binaries are p
 - When PacMac eat a ghost, its direction change to the left. I've never been able to find that bug...
 - When player lose a life, sometime Blinky start to move before all other sprites.  
 ## Credits
+Thanks to fcu, Roland57, Nimbus and Fred vS to their help to fix the bugs !  
+
 ###Graphics:
 https://www.spriters-resource.com/arcade/pacman/  reworked in vectorial with Inkscape  
 
