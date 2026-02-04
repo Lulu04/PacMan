@@ -49,7 +49,7 @@ uses OGLCScene, u_common, screen_game
 { TFormMain }
 
 procedure TFormMain.FormCreate(Sender: TObject);
-{$ifdef Linux}var BoundsRect_client: TRect;{$endif}
+{$ifdef Unix}var BoundsRect_client: TRect;{$endif}
 begin
 {$ifdef MAXIMIZE_SCENE_ON_MONITOR}
   FScene := TOGLCScene.Create(OpenGLControl1, SCREEN_WIDTH_AT_DESIGN_TIME/SCREEN_HEIGHT_AT_DESIGN_TIME);
